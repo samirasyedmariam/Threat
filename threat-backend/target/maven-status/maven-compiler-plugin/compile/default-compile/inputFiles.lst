@@ -1,0 +1,11 @@
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\model\CveEntity.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\ThreatApplication.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\service\CveSyncService.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\repository\CveRepository.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\util\CveParseUtil.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\config\CorsConfig.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\controller\DevController.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\service\CveService.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\controller\CveController.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\config\AsyncConfig.java
+C:\Users\SamiraSyedSait\Threat\threat-backend\src\main\java\com\example\threat\util\CveSpecifications.java

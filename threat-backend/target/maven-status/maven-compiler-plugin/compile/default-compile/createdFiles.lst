@@ -1,0 +1,12 @@
+com\example\threat\util\CveSpecifications.class
+com\example\threat\service\CveService.class
+com\example\threat\service\CveSyncService.class
+com\example\threat\controller\CveController.class
+com\example\threat\util\CveParseUtil.class
+com\example\threat\ThreatApplication.class
+com\example\threat\config\CorsConfig$1.class
+com\example\threat\controller\DevController.class
+com\example\threat\model\CveEntity.class
+com\example\threat\config\AsyncConfig.class
+com\example\threat\repository\CveRepository.class
+com\example\threat\config\CorsConfig.class

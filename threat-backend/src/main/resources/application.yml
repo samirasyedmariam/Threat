@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/threatdb
+    username: postgres
+    password: 1234
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+
+nvd:
+  base-url: https://services.nvd.nist.gov/rest/json/cves/2.0
+  api-key:
+  page-size: 2000
+  sync-cron: "0 0 1 * * *" # 1 AM daily
+  sync-on-startup: false   # change to true to run sync at startup
+dev:
+  sync-token: ""  # set this env variable in production to protect /api/dev/sync

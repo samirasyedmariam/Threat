@@ -1,0 +1,3 @@
+com\example\threat\util\CveParseUtilTest.class
+com\example\threat\CveServiceTest.class
+com\example\threat\service\CveServiceTest.class
